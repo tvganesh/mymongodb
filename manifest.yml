@@ -1,0 +1,8 @@
+applications:
+- name: mymongodb01
+  memory: 256M
+  instances: 1
+  host: mymongodb01
+  domain: mybluemix.net
+  path: .
+  command: node app.js

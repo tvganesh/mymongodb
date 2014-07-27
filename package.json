@@ -1,0 +1,7 @@
+{
+  "version":"1.0.0",
+  "scripts":{"start":"node app.js"},
+  "dependencies":{"mongodb":"*"},
+  "name":"mymongodb01",
+  "description":"This code uses Bluemix to access MongoDB through REST APIs"
+}
